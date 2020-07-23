@@ -1,12 +1,12 @@
 <p align="center">
-    <a href="https://mattseemon.in/" rel="noopener"><img width="200px" height="200px" src="./assets/avatar.png" alt="Matt Seemon" /></a>
+    <img width="200px" height="200px" src="https://raw.githubusercontent.com/mattseemon/mattseemon/master/assets/avatar.png" alt="Matt Seemon" />
 </p>
 
 <h1 align="center">Matt Seemon</h1>
 
-<h2 align="center"><b><code>Avid Learner | Causal Gamer | Movie Buff | Karaoke Junkie | Inconsistent Developer</code></b></h2>
+<h3 align="center"><b><code>Avid Learner | Causal Gamer | Movie Buff | Karaoke Junkie | Inconsistent Developer</code></b></h3>
 
-## Welcome to my world of incomplete projects.
+#### Welcome to my world of incomplete projects.
 
 I used to be a software developer up until a decade ago. Since then I have moved up the ladder, slid sideways on a ledge, jumped off the platform to something entirely different and jumped back on. All the while I never lost my interest in creating things.
 
@@ -18,7 +18,7 @@ Feel free to comment, critic on anything here. I know it will only help me impro
 
 Should you choose to use any of the material here, you will be doing so, with no guarantee from me that it will work as intended.
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<table align="center">
     <tr>
         <td><code>
             follow: <a href="https://twitter.com/mathewseemon" rel="noopener" target="_blank" title="Twitter">tw</a>
