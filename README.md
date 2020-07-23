@@ -1,16 +1,35 @@
-### Hi there 👋
+<p align="center">
+    <a href="https://mattseemon.in/" rel="noopener"><img width="200px" height="200px" src="./assets/avatar.png" alt="Matt Seemon" /></a>
+</p>
 
-<!--
-**mattseemon/mattseemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Matt Seemon</h1>
 
-Here are some ideas to get you started:
+<h2 align="center"><b><code>Avid Learner | Causal Gamer | Movie Buff | Karaoke Junkie | Inconsistent Developer</code></b></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Welcome to my world of incomplete projects.
+
+I used to be a software developer up until a decade ago. Since then I have moved up the ladder, slid sideways on a ledge, jumped off the platform to something entirely different and jumped back on. All the while I never lost my interest in creating things.
+
+I would always write a small utility for some random task I had to do. All these would just reside on my work machine or external storage, which would invariably get lost due to various reasons.
+
+I setup a GitHub account primarily to have a place to permanently keep all the stuff I write, however random it is. Every project in here should be considered WIP and incomplete as it is mostly just stuff I am trying to learn.
+
+Feel free to comment, critic on anything here. I know it will only help me improve.
+
+Should you choose to use any of the material here, you will be doing so, with no guarantee from me that it will work as intended.
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td><code>
+            follow: <a href="https://twitter.com/mathewseemon" rel="noopener" target="_blank" title="Twitter">tw</a>
+             | <a href="https://www.linkedin.com/in/mathewseemon/" rel="noopener" target="_blank" title="LinkedIn">li</a>
+        </code></td>
+        <td align="center">
+            <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
+        </td>            
+        <td align="right"><code>
+            <a href="mailto:contact@mattseemon.in" rel="noopener" target="_blank" title="Email">@</a>
+             | <a href="https://github.com/mattseemon/mattseemon/issues/new" rel="noopener" title="Ask me anything">ama</a> :contact
+        </code></td>
+    </tr>
+</table>
