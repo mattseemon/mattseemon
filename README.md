@@ -18,18 +18,16 @@ Feel free to comment, critic on anything here. I know it will only help me impro
 
 Should you choose to use any of the material here, you will be doing so, with no guarantee from me that it will work as intended.
 
-<table align="center">
-    <tr>
-        <td><code>
-            follow: <a href="https://twitter.com/mathewseemon" rel="noopener" target="_blank" title="Twitter">tw</a>
-             | <a href="https://www.linkedin.com/in/mathewseemon/" rel="noopener" target="_blank" title="LinkedIn">li</a>
-        </code></td>
-        <td align="center">
-            <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
-        </td>            
-        <td align="right"><code>
-            <a href="mailto:contact@mattseemon.in" rel="noopener" target="_blank" title="Email">@</a>
-             | <a href="https://github.com/mattseemon/mattseemon/issues/new" rel="noopener" title="Ask me anything">ama</a> :contact
-        </code></td>
-    </tr>
-</table>
+<p align="center">
+    <samp>
+        follow: <a href="https://twitter.com/mathewseemon" rel="noopener" target="_blank" title="Twitter">tw</a>
+         | <a href="https://www.linkedin.com/in/mathewseemon/" rel="noopener" target="_blank" title="LinkedIn">li</a>
+        &nbsp;
+        <img src="http://hits.dwyl.com/mattseemon/mattseemon.svg" />
+        &nbsp;
+        <a href="mailto:contact@mattseemon.in" rel="noopener" target="_blank" title="Email">@</a>
+         | <a href="https://github.com/mattseemon/mattseemon/issues/new" rel="noopener" title="Ask me anything">ama</a> :contact
+    </samp>
+    <br/>
+    <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
+</p>
